@@ -2,4 +2,41 @@ body{
     color: white;
     background-color: black;
     font-family: allura, dancing script, alex brush, cursive, comic suns ms, times new roman;
+    margin: 20px;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+h2{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom:  10px;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 30px
+}
+
+li p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    margin: 0;
+}
+
+a {
+    color: lightsteelblue;
+    text-decoration: none;
 }

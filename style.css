@@ -2,6 +2,7 @@ body{
     color: white;
     background-color: black;
     font-family: "Allura", "Dancing Script", "Alex Brush", cursive, "Comic Sans MS", "Times New Roman";
+    padding-left: 20px;
 }
 
 img {

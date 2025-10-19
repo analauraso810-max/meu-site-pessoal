@@ -57,9 +57,9 @@ a {
 hr {
     border: 0;
     height: 2px;
-    background-color: lightblue;
+    background-color: lightpink;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }

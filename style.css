@@ -2,6 +2,8 @@ body{
     color: white;
     background-color: black;
     font-family: allura, dancing script, alex brush, cursive, comic suns ms, times new roman;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 img {

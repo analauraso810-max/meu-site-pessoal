@@ -57,9 +57,10 @@ a {
 hr {
     border: 0;
     height: 2px;
+    width: 50%
     background-color: lightpink;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 0;
+    margin-right: 0;
 }
